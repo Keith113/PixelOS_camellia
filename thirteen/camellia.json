@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_camellia-13.0-20230716-1006.zip",
-    "datetime": 1689501612,
-    "size": 1517929766,
-    "url": "https://sourceforge.net/projects/camellia-rom/files/PixelOS/PixelOS_camellia-13.0-20230716-1006.zip",
+    "filename": "PixelOS_camellia-13.0-20230725-0637.zip",
+    "datetime": 1690266857,
+    "size": 1592751896,
+    "url": "https://sourceforge.net/projects/camellia-rom/files/PixelOS/PixelOS_camellia-13.0-20230725-0637.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "384627b09287755393e79e04718cbc9a",
-    "id": "b4d140da4929b201ebcb153c9d419b34775d65323b9bd1818e3757a67cb555e3",
+    "filehash": "4984ccef094cdb95847f415852f8c8fe",
+    "id": "b18709b27310881508e25f827b5a2c74e28fca684786f3d662f145ed54a5c57b",
     "maintainers": [
         {
             "main_maintainer": true,
